@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Calendar"
+    }
+  },
+  "defaultProject": "Calendar",
+  "cli": {
+    "analytics": false
+  }
 }
